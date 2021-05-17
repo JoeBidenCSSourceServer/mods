@@ -1,0 +1,10 @@
+"de_school2"
+{
+	"material"	"overviews/de_school2"
+	"pos_x"		"-3958"
+	"pos_y"		"4669"
+	"scale"		"8.00"
+	"rotate"	"0"
+        "zoom"          "1.3"
+
+}
