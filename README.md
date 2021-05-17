@@ -1,2 +1,3 @@
-# mods
-mods
+# Mods
+mods for LAN server
+
